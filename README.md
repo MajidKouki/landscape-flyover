@@ -1,6 +1,7 @@
 # Landscape Flyover
 
 Current testing ground for CUDA program. Work in progress.
+This repository is primarily just for testing and practice.
 
 ---
 
