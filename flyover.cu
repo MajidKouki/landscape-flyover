@@ -1,5 +1,6 @@
 
-
+// The code blocks below are commented out as they aren't meant to run as is
+// but be integrated into the program as it develops
 
 // // Draw diagonal lines across mesh
 // static _global_ void updateHeightmapKernel(float *heightMap,
