@@ -41,3 +41,10 @@
 
 // // Allocate CPU memroy
 // cudaMallocHost(&bottomRow, meshWidth * sizeof(float));
+
+
+
+// // Free allocated memory
+// cudaFree(heightmap);
+// cudaFreeHost(bottomRow);
+// return 0;
